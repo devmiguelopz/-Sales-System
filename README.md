@@ -3,4 +3,5 @@
  
  Recomendation:
  1.- Execute query SQL (SQL-SERVER)
+ 
  2.- Change App.config :<add connectionString="Server=NameServer;Database=DemoPractica;User ID=IDUser;Password=password" name="Proyecto"/>
