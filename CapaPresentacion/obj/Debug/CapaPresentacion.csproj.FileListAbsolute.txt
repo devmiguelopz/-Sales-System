@@ -1,0 +1,266 @@
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaLibreria.dll
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPersistencia.dll
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaLibreria.pdb
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPersistencia.pdb
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCargos.resources
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCategoria.resources
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoClientes.resources
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoEmpleados.resources
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoProductos.resources
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmLogin.resources
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmMenuPrincipal.resources
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCargo.resources
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCategoria.resources
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarEmpleados.resources
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarUsuarios.resources
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroCliente.resources
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroProductos.resources
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroVentas.resources
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCargos.resources
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCategoria.resources
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoClientes.resources
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoEmpleados.resources
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoProductos.resources
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmLogin.resources
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmMenuPrincipal.resources
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCargo.resources
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCategoria.resources
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarEmpleados.resources
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarUsuarios.resources
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroCliente.resources
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroProductos.resources
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroVentas.resources
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaLibreria.dll
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPersistencia.dll
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaLibreria.pdb
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPersistencia.pdb
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaLibreria.dll
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPersistencia.dll
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaLibreria.pdb
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPersistencia.pdb
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCargos.resources
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCategoria.resources
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoClientes.resources
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoEmpleados.resources
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoProductos.resources
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmLogin.resources
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmMenuPrincipal.resources
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCargo.resources
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCategoria.resources
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarEmpleados.resources
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarUsuarios.resources
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroCliente.resources
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroProductos.resources
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroVentas.resources
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCargos.resources
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCategoria.resources
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoClientes.resources
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoEmpleados.resources
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoProductos.resources
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmLogin.resources
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmMenuPrincipal.resources
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCargo.resources
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCategoria.resources
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarEmpleados.resources
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarUsuarios.resources
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroCliente.resources
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroProductos.resources
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroVentas.resources
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaLibreria.dll
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPersistencia.dll
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaLibreria.pdb
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPersistencia.pdb
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaLibreria.dll
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPersistencia.dll
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaLibreria.pdb
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPersistencia.pdb
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCargos.resources
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCategoria.resources
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoClientes.resources
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoEmpleados.resources
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoProductos.resources
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmLogin.resources
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmMenuPrincipal.resources
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCargo.resources
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCategoria.resources
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarEmpleados.resources
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarUsuarios.resources
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroCliente.resources
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroProductos.resources
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroVentas.resources
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaLibreria.dll
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPersistencia.dll
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaLibreria.pdb
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPersistencia.pdb
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCargos.resources
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCategoria.resources
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoClientes.resources
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoEmpleados.resources
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoProductos.resources
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmLogin.resources
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmMenuPrincipal.resources
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCargo.resources
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCategoria.resources
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarEmpleados.resources
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarUsuarios.resources
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroCliente.resources
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroProductos.resources
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroVentas.resources
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaLibreria.dll
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPersistencia.dll
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaLibreria.pdb
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\bin\Debug\CapaPersistencia.pdb
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCargos.resources
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCategoria.resources
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoClientes.resources
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoEmpleados.resources
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoProductos.resources
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmLogin.resources
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmMenuPrincipal.resources
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCargo.resources
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCategoria.resources
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarEmpleados.resources
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarUsuarios.resources
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroCliente.resources
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroProductos.resources
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroVentas.resources
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\bin\Debug\CapaEntidad.dll
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\bin\Debug\CapaLibreria.dll
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\bin\Debug\DevComponents.Instrumentation.dll
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\bin\Debug\DevComponents.TreeGX.dll
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\bin\Debug\CapaPersistencia.dll
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\bin\Debug\CapaLibreria.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\bin\Debug\CapaPersistencia.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCargos.resources
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoCategoria.resources
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoClientes.resources
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoEmpleados.resources
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmListadoProductos.resources
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmLogin.resources
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmMenuPrincipal.resources
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCargo.resources
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarCategoria.resources
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarEmpleados.resources
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistrarUsuarios.resources
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroCliente.resources
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroProductos.resources
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroVentas.resources
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache

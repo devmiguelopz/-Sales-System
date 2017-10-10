@@ -1,0 +1,89 @@
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaNegocio\bin\Debug\CapaLibreria.dll
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaNegocio\bin\Debug\CapaPersistencia.dll
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaNegocio\bin\Debug\CapaPersistencia.pdb
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaNegocio\bin\Debug\CapaLibreria.pdb
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaNegocio\obj\Debug\CapaAplicacion.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaNegocio\bin\Debug\CapaLibreria.dll
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaNegocio\bin\Debug\CapaPersistencia.dll
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaNegocio\bin\Debug\CapaPersistencia.pdb
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaNegocio\bin\Debug\CapaLibreria.pdb
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaNegocio\obj\Debug\CapaAplicacion.csprojResolveAssemblyReference.cache
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaNegocio\bin\Debug\CapaLibreria.dll
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaNegocio\bin\Debug\CapaPersistencia.dll
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaNegocio\bin\Debug\CapaPersistencia.pdb
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaNegocio\bin\Debug\CapaLibreria.pdb
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaNegocio\obj\Debug\CapaAplicacion.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaNegocio\bin\Debug\CapaLibreria.dll
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaNegocio\bin\Debug\CapaPersistencia.dll
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaNegocio\bin\Debug\CapaPersistencia.pdb
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaNegocio\bin\Debug\CapaLibreria.pdb
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaNegocio\obj\Debug\CapaAplicacion.csprojResolveAssemblyReference.cache
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaNegocio\bin\Debug\CapaLibreria.dll
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaNegocio\bin\Debug\CapaPersistencia.dll
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaNegocio\bin\Debug\CapaPersistencia.pdb
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaNegocio\bin\Debug\CapaLibreria.pdb
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaNegocio\obj\Debug\CapaAplicacion.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaNegocio\bin\Debug\CapaLibreria.dll
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaNegocio\bin\Debug\CapaPersistencia.dll
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaNegocio\bin\Debug\CapaPersistencia.pdb
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaNegocio\bin\Debug\CapaLibreria.pdb
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaNegocio\obj\Debug\CapaAplicacion.csprojResolveAssemblyReference.cache
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaNegocio\bin\Debug\CapaLibreria.dll
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaNegocio\bin\Debug\CapaPersistencia.dll
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaNegocio\bin\Debug\CapaPersistencia.pdb
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaNegocio\bin\Debug\CapaLibreria.pdb
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaNegocio\obj\Debug\CapaAplicacion.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaNegocio\bin\Debug\CapaLibreria.dll
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaNegocio\bin\Debug\CapaPersistencia.dll
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaNegocio\bin\Debug\CapaPersistencia.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaNegocio\bin\Debug\CapaLibreria.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaNegocio\obj\Debug\CapaAplicacion.csprojResolveAssemblyReference.cache
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaNegocio\obj\Debug\CapaAplicacion.csproj.CoreCompileInputs.cache
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb

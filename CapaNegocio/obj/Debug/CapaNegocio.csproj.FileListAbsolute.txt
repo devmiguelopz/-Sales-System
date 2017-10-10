@@ -1,0 +1,11 @@
+C:\Users\CINTHYA FIORELLA\Documents\SistemaVentasV1\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\CINTHYA FIORELLA\Documents\SistemaVentasV1\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\CINTHYA FIORELLA\Documents\SistemaVentasV1\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\CINTHYA FIORELLA\Documents\SistemaVentasV1\CapaNegocio\bin\Debug\CapaLibreria.dll
+C:\Users\CINTHYA FIORELLA\Documents\SistemaVentasV1\CapaNegocio\bin\Debug\CapaPersistencia.dll
+C:\Users\CINTHYA FIORELLA\Documents\SistemaVentasV1\CapaNegocio\bin\Debug\CapaPersistencia.pdb
+C:\Users\CINTHYA FIORELLA\Documents\SistemaVentasV1\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\CINTHYA FIORELLA\Documents\SistemaVentasV1\CapaNegocio\bin\Debug\CapaLibreria.pdb
+C:\Users\CINTHYA FIORELLA\Documents\SistemaVentasV1\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\CINTHYA FIORELLA\Documents\SistemaVentasV1\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\CINTHYA FIORELLA\Documents\SistemaVentasV1\CapaNegocio\obj\Debug\CapaNegocio.pdb

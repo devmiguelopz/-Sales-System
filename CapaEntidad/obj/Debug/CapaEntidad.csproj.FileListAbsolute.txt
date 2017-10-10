@@ -1,0 +1,7 @@
+C:\Users\CINTHYA FIORELLA\Documents\SistemaVentasV1\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\CINTHYA FIORELLA\Documents\SistemaVentasV1\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\CINTHYA FIORELLA\Documents\SistemaVentasV1\CapaEntidad\bin\Debug\CapaLibreria.dll
+C:\Users\CINTHYA FIORELLA\Documents\SistemaVentasV1\CapaEntidad\bin\Debug\CapaLibreria.pdb
+C:\Users\CINTHYA FIORELLA\Documents\SistemaVentasV1\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+C:\Users\CINTHYA FIORELLA\Documents\SistemaVentasV1\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\CINTHYA FIORELLA\Documents\SistemaVentasV1\CapaEntidad\obj\Debug\CapaEntidad.pdb

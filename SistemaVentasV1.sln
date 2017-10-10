@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Capa de Aplicacion", "Capa de Aplicacion", "{2F1E36F3-2C02-4152-AD07-B146B66EB7E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Capa de Dominio", "Capa de Dominio", "{C7570E0F-7921-48CD-9D0E-1ABA61F8B5D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Capa de Persistencia", "Capa de Persistencia", "{FF463A8A-ADE8-4258-8ED3-C5AC71C7D766}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaAplicacion", "CapaNegocio\CapaAplicacion.csproj", "{A908D81D-BC11-4EC9-828D-25364617315E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDominio", "CapaEntidad\CapaDominio.csproj", "{985B3C6D-CBEB-41B9-8093-138B372AC686}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaPersistencia", "CapaDatos\CapaPersistencia.csproj", "{66D74A9F-355C-43FF-8156-F6B7D9F8B7D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Capa Transversal", "Capa Transversal", "{2B601E81-6193-430C-A4C4-FC74122F0B44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaLibreria", "CapaLibreria\CapaLibreria.csproj", "{4544A101-D504-4626-86BA-A200BD32C76F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Capa de Presentacion", "Capa de Presentacion", "{7893C864-616A-4E4D-9302-0765545098FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaPresentacion", "CapaPresentacion\CapaPresentacion.csproj", "{0B315C38-73A5-45D7-92F6-49AA54E50267}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A908D81D-BC11-4EC9-828D-25364617315E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A908D81D-BC11-4EC9-828D-25364617315E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A908D81D-BC11-4EC9-828D-25364617315E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A908D81D-BC11-4EC9-828D-25364617315E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{985B3C6D-CBEB-41B9-8093-138B372AC686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{985B3C6D-CBEB-41B9-8093-138B372AC686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{985B3C6D-CBEB-41B9-8093-138B372AC686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{985B3C6D-CBEB-41B9-8093-138B372AC686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66D74A9F-355C-43FF-8156-F6B7D9F8B7D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D74A9F-355C-43FF-8156-F6B7D9F8B7D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D74A9F-355C-43FF-8156-F6B7D9F8B7D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D74A9F-355C-43FF-8156-F6B7D9F8B7D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4544A101-D504-4626-86BA-A200BD32C76F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4544A101-D504-4626-86BA-A200BD32C76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4544A101-D504-4626-86BA-A200BD32C76F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4544A101-D504-4626-86BA-A200BD32C76F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B315C38-73A5-45D7-92F6-49AA54E50267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B315C38-73A5-45D7-92F6-49AA54E50267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B315C38-73A5-45D7-92F6-49AA54E50267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B315C38-73A5-45D7-92F6-49AA54E50267}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A908D81D-BC11-4EC9-828D-25364617315E} = {2F1E36F3-2C02-4152-AD07-B146B66EB7E1}
+		{985B3C6D-CBEB-41B9-8093-138B372AC686} = {C7570E0F-7921-48CD-9D0E-1ABA61F8B5D9}
+		{66D74A9F-355C-43FF-8156-F6B7D9F8B7D8} = {FF463A8A-ADE8-4258-8ED3-C5AC71C7D766}
+		{4544A101-D504-4626-86BA-A200BD32C76F} = {2B601E81-6193-430C-A4C4-FC74122F0B44}
+		{0B315C38-73A5-45D7-92F6-49AA54E50267} = {7893C864-616A-4E4D-9302-0765545098FF}
+	EndGlobalSection
+EndGlobal

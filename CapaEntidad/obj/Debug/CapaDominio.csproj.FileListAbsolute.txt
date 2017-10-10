@@ -1,0 +1,57 @@
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaEntidad\bin\Debug\CapaLibreria.dll
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaEntidad\bin\Debug\CapaLibreria.pdb
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaEntidad\obj\Debug\CapaDominio.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaEntidad\bin\Debug\CapaLibreria.dll
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaEntidad\bin\Debug\CapaLibreria.pdb
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaEntidad\obj\Debug\CapaDominio.csprojResolveAssemblyReference.cache
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaEntidad\bin\Debug\CapaLibreria.dll
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaEntidad\bin\Debug\CapaLibreria.pdb
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaEntidad\obj\Debug\CapaDominio.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaEntidad\bin\Debug\CapaLibreria.dll
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaEntidad\bin\Debug\CapaLibreria.pdb
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaEntidad\obj\Debug\CapaDominio.csprojResolveAssemblyReference.cache
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaEntidad\bin\Debug\CapaLibreria.dll
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaEntidad\bin\Debug\CapaLibreria.pdb
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaEntidad\obj\Debug\CapaDominio.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaEntidad\bin\Debug\CapaLibreria.dll
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaEntidad\bin\Debug\CapaLibreria.pdb
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaEntidad\obj\Debug\CapaDominio.csprojResolveAssemblyReference.cache
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaEntidad\bin\Debug\CapaLibreria.dll
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaEntidad\bin\Debug\CapaLibreria.pdb
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaEntidad\obj\Debug\CapaDominio.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaEntidad\bin\Debug\CapaLibreria.dll
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaEntidad\bin\Debug\CapaLibreria.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaEntidad\obj\Debug\CapaDominio.csprojResolveAssemblyReference.cache
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaEntidad\obj\Debug\CapaDominio.csproj.CoreCompileInputs.cache
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.pdb

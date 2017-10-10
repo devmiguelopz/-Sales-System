@@ -1,0 +1,73 @@
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaDatos\bin\Debug\CapaPersistencia.dll
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaDatos\bin\Debug\CapaPersistencia.pdb
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaDatos\bin\Debug\CapaLibreria.dll
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaDatos\bin\Debug\CapaLibreria.pdb
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaDatos\obj\Debug\CapaPersistencia.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaDatos\obj\Debug\CapaPersistencia.dll
+C:\Users\USUARIO\Desktop\final\SistemaVentasV1\CapaDatos\obj\Debug\CapaPersistencia.pdb
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaDatos\bin\Debug\CapaPersistencia.dll
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaDatos\bin\Debug\CapaPersistencia.pdb
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaDatos\bin\Debug\CapaLibreria.dll
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaDatos\bin\Debug\CapaLibreria.pdb
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaDatos\obj\Debug\CapaPersistencia.csprojResolveAssemblyReference.cache
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaDatos\obj\Debug\CapaPersistencia.dll
+C:\Users\Practicas-Tesis\Desktop\SistemaVentasV1\CapaDatos\obj\Debug\CapaPersistencia.pdb
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaDatos\bin\Debug\CapaPersistencia.dll
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaDatos\bin\Debug\CapaPersistencia.pdb
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaDatos\bin\Debug\CapaLibreria.dll
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaDatos\bin\Debug\CapaLibreria.pdb
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaDatos\obj\Debug\CapaPersistencia.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaDatos\obj\Debug\CapaPersistencia.dll
+C:\Users\USUARIO\Desktop\ventas 1.6\SistemaVentasV1\CapaDatos\obj\Debug\CapaPersistencia.pdb
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaDatos\bin\Debug\CapaPersistencia.dll
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaDatos\bin\Debug\CapaPersistencia.pdb
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaDatos\bin\Debug\CapaLibreria.dll
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaDatos\bin\Debug\CapaLibreria.pdb
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaDatos\obj\Debug\CapaPersistencia.csprojResolveAssemblyReference.cache
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaDatos\obj\Debug\CapaPersistencia.dll
+C:\Users\CINTHYA FIORELLA\Desktop\SistemaVentasV1\CapaDatos\obj\Debug\CapaPersistencia.pdb
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaDatos\bin\Debug\CapaPersistencia.dll
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaDatos\bin\Debug\CapaPersistencia.pdb
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaDatos\bin\Debug\CapaLibreria.dll
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaDatos\bin\Debug\CapaLibreria.pdb
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaDatos\obj\Debug\CapaPersistencia.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaDatos\obj\Debug\CapaPersistencia.dll
+C:\Users\USUARIO\Desktop\proyecto calidad\SistemaVentasV1\CapaDatos\obj\Debug\CapaPersistencia.pdb
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaDatos\bin\Debug\CapaPersistencia.dll
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaDatos\bin\Debug\CapaPersistencia.pdb
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaDatos\bin\Debug\CapaLibreria.dll
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaDatos\bin\Debug\CapaLibreria.pdb
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaDatos\obj\Debug\CapaPersistencia.csprojResolveAssemblyReference.cache
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaDatos\obj\Debug\CapaPersistencia.dll
+C:\Users\INGENIERIA\Desktop\Nueva carpeta\SistemaVentasV1\CapaDatos\obj\Debug\CapaPersistencia.pdb
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaDatos\bin\Debug\CapaPersistencia.dll
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaDatos\bin\Debug\CapaPersistencia.pdb
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaDatos\bin\Debug\CapaLibreria.dll
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaDatos\bin\Debug\CapaLibreria.pdb
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaDatos\obj\Debug\CapaPersistencia.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaDatos\obj\Debug\CapaPersistencia.dll
+C:\Users\USUARIO\Desktop\SistemaVentasV1\CapaDatos\obj\Debug\CapaPersistencia.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaDatos\bin\Debug\CapaPersistencia.dll
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaDatos\bin\Debug\CapaPersistencia.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaDatos\bin\Debug\CapaLibreria.dll
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaDatos\bin\Debug\CapaLibreria.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaDatos\obj\Debug\CapaPersistencia.csprojResolveAssemblyReference.cache
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaDatos\obj\Debug\CapaPersistencia.csproj.CoreCompileInputs.cache
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaDatos\obj\Debug\CapaPersistencia.dll
+D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaDatos\obj\Debug\CapaPersistencia.pdb
