@@ -297,3 +297,4 @@ D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaPresentacion\obj\Debug\C
 D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaPresentacion\obj\Debug\Capa_de_Presentacion.FrmRegistroVentas.resources
 D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
 D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
