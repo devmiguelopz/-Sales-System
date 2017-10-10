@@ -33,3 +33,8 @@ D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaLibreria\obj\Debug\Cap
 D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaLibreria\obj\Debug\CapaLibreria.csproj.CoreCompileInputs.cache
 D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaLibreria\obj\Debug\CapaLibreria.dll
 D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaLibreria\obj\Debug\CapaLibreria.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaLibreria\bin\Debug\CapaLibreria.dll
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaLibreria\bin\Debug\CapaLibreria.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaLibreria\obj\Debug\CapaLibreria.csprojResolveAssemblyReference.cache
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaLibreria\obj\Debug\CapaLibreria.dll
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaLibreria\obj\Debug\CapaLibreria.pdb

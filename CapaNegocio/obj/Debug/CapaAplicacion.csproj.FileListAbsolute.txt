@@ -87,3 +87,14 @@ D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaNegocio\obj\Debug\Capa
 D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaNegocio\obj\Debug\CapaAplicacion.csproj.CoreCompileInputs.cache
 D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
 D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaNegocio\bin\Debug\CapaLibreria.dll
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaNegocio\bin\Debug\CapaPersistencia.dll
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaNegocio\bin\Debug\CapaPersistencia.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaNegocio\bin\Debug\CapaLibreria.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaNegocio\obj\Debug\CapaAplicacion.csprojResolveAssemblyReference.cache
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaNegocio\obj\Debug\CapaNegocio.pdb

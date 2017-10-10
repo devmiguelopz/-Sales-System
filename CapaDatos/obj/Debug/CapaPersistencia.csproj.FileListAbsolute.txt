@@ -71,3 +71,12 @@ D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaDatos\obj\Debug\CapaPe
 D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaDatos\obj\Debug\CapaPersistencia.csproj.CoreCompileInputs.cache
 D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaDatos\obj\Debug\CapaPersistencia.dll
 D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaDatos\obj\Debug\CapaPersistencia.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaDatos\bin\Debug\CapaPersistencia.dll
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaDatos\bin\Debug\CapaPersistencia.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaDatos\bin\Debug\CapaLibreria.dll
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaDatos\bin\Debug\CapaLibreria.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaDatos\obj\Debug\CapaPersistencia.csprojResolveAssemblyReference.cache
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaDatos\obj\Debug\CapaPersistencia.dll
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaDatos\obj\Debug\CapaPersistencia.pdb

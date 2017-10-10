@@ -55,3 +55,10 @@ D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaEntidad\obj\Debug\Capa
 D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaEntidad\obj\Debug\CapaDominio.csproj.CoreCompileInputs.cache
 D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.dll
 D:\Repositorio Miguel\Github\Proyecto03\SistemaVentas\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaEntidad\bin\Debug\CapaLibreria.dll
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaEntidad\bin\Debug\CapaLibreria.pdb
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaEntidad\obj\Debug\CapaDominio.csprojResolveAssemblyReference.cache
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Repositorio Miguel\Github\Proyecto03\SalesSystem\CapaEntidad\obj\Debug\CapaEntidad.pdb
